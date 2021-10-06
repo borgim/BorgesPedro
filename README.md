@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 🇧🇷 I'm from Brazil!
 - 🖥️ Currently working on many personal projects
 - 🔭 Looking for new opportunities
-- 🌱 I'm currently deepening my studies in [ReactJS](https://reactjs.org/) and [NodeJS](https://nodejs.org/)
+- 🌱 I'm currently focusing my studies in [ReactJS](https://reactjs.org/) and [NodeJS](https://nodejs.org/)
