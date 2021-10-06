@@ -1,4 +1,4 @@
-### Welcome, I am Pedro Borges 👋
+### Welcome, I'm Pedro Borges(My friends call me "Borgin") 👋
 
 <!--
 **BorgesPedro/BorgesPedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
