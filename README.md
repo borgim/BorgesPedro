@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-- 🇧🇷 I'm from Brazil!
 - 🖥️ Currently working on many personal projects
 - 🔭 Looking for new opportunities
+-->
+- 🇧🇷 I'm from Brazil!
 - 🌱 I'm currently focusing my studies in [ReactJS](https://reactjs.org/) and [NodeJS](https://nodejs.org/)
