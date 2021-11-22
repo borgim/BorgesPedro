@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 - 🇧🇷 I'm from Brazil!
 - 🖥️ Currently working on Codeby
-- 🌱 I'm currently focusing my studies in [ReactJS](https://reactjs.org/) and [NodeJS](https://nodejs.org/)
+- 🌱 I'm currently studying [ReactJS](https://reactjs.org/) and [NodeJS](https://nodejs.org/)
