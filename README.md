@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - 🔭 Looking for new opportunities
 -->
 - 🇧🇷 I'm from Brazil!
-- 🖥️ Currently working on Codeby
+- 🖥️ Currently working on [Codeby](https://github.com/codeby-global)
 - 🌱 I'm currently studying [ReactJS](https://reactjs.org/) and [NodeJS](https://nodejs.org/)
